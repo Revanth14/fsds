@@ -1,2 +1,2 @@
-git rm --cached /pandas/excel-files/
-git rm --cached /pandas/sample-csv/
+git rm --cached pandas/excel-files/
+git rm --cached pandas/sample-csv/
